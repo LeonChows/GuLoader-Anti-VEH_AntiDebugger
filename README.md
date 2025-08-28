@@ -1,6 +1,7 @@
 # 使用方法
 ## X64配置
 使用方法 x64dbg->选项->异常->异常处理者->调试器
+
 <img width="410" height="645" alt="image" src="https://github.com/user-attachments/assets/ff27b62f-7684-41ba-a636-94f78f9e9bd1" />
 
 # 原理
