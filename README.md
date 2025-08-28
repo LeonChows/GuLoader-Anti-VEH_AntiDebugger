@@ -1,3 +1,6 @@
+# 效果
+<img width="1806" height="639" alt="image" src="https://github.com/user-attachments/assets/4c56f390-43da-4ce5-aa43-5e25269cfbdb" />
+
 # 使用方法
 ## X64配置
 使用方法 x64dbg->选项->异常->异常处理者->调试器
@@ -11,3 +14,4 @@
 
 # 其他
 ## x64版本没有弄 有需要的可以自已弄下 只弄好了x32版本的
+
