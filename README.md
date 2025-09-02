@@ -2,7 +2,7 @@
 https://www.virusview.net/malware/Trojan/Script/Guloader
 
 ## 起因
-Guloader加载器使用ZwGetContextThread是用来实现反调试，对于RtlAddVectoredExceptionHandler函数则是一方面用于反调试，另一方面也用于干扰动静态分析。Guloader下载器在最近几年公开的分析报告中并未提及到RtlAddVectoredExceptionHandler函数反调试干扰分析的细节
+Guloader加载器使用RtlAddVectoredExceptionHandler函数用于反调试 基于处理异常来更改程序执行流程 所以这个库诞生了
 
 # 效果
 <img width="1806" height="639" alt="image" src="https://github.com/user-attachments/assets/4c56f390-43da-4ce5-aa43-5e25269cfbdb" />
